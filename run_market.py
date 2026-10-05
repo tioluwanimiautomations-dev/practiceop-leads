@@ -5,7 +5,7 @@ import importlib
 
 from lib.common import load_market
 
-STEPS = {1: "s1_scrape", 2: "s2_filter"}  # 3-6 not built yet
+STEPS = {1: "s1_scrape", 2: "s2_filter", 3: "s3_adscan"}  # 4-6 not built yet
 
 
 def parse_steps(s):

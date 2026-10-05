@@ -5,6 +5,10 @@ miami_broward:
   counties:
     miami-dade: Miami-Dade County, FL
     broward: Broward County, FL
+  # Where to run the manual ad check (one location per county; LSA results are location-dependent)
+  ad_locations:
+    miami-dade: Miami, FL
+    broward: Fort Lauderdale, FL
   search_terms:
     - criminal defense attorney
     - criminal defense lawyer

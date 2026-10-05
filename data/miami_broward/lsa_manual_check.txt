@@ -1,0 +1,26 @@
+Manual ad check: miami_broward
+Use a clean/incognito window; Google shows different ads by location and device.
+For each URL record in ad_scan.csv: lsa (y/n), search_ads (y/n), advertisers_seen
+(firm names in the Google Guaranteed / LSA block and sponsored results, separated by ';').
+Presence only. Do not estimate spend.
+
+[ ] Miami, FL | criminal defense attorney
+    https://www.google.com/search?q=criminal+defense+attorney+Miami%2C+FL
+[ ] Miami, FL | criminal defense lawyer
+    https://www.google.com/search?q=criminal+defense+lawyer+Miami%2C+FL
+[ ] Miami, FL | DUI attorney
+    https://www.google.com/search?q=DUI+attorney+Miami%2C+FL
+[ ] Miami, FL | drug crime lawyer
+    https://www.google.com/search?q=drug+crime+lawyer+Miami%2C+FL
+[ ] Miami, FL | criminal lawyer
+    https://www.google.com/search?q=criminal+lawyer+Miami%2C+FL
+[ ] Fort Lauderdale, FL | criminal defense attorney
+    https://www.google.com/search?q=criminal+defense+attorney+Fort+Lauderdale%2C+FL
+[ ] Fort Lauderdale, FL | criminal defense lawyer
+    https://www.google.com/search?q=criminal+defense+lawyer+Fort+Lauderdale%2C+FL
+[ ] Fort Lauderdale, FL | DUI attorney
+    https://www.google.com/search?q=DUI+attorney+Fort+Lauderdale%2C+FL
+[ ] Fort Lauderdale, FL | drug crime lawyer
+    https://www.google.com/search?q=drug+crime+lawyer+Fort+Lauderdale%2C+FL
+[ ] Fort Lauderdale, FL | criminal lawyer
+    https://www.google.com/search?q=criminal+lawyer+Fort+Lauderdale%2C+FL
