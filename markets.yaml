@@ -1,0 +1,15 @@
+# One block per market. Adding a market = adding a block here. Nothing else changes.
+miami_broward:
+  state: FL
+  # slug is matched against raw CSV filenames (case-insensitive, "_" == "-"), e.g. miami-dade_2026-10-05.csv
+  counties:
+    miami-dade: Miami-Dade County, FL
+    broward: Broward County, FL
+  search_terms:
+    - criminal defense attorney
+    - criminal defense lawyer
+    - DUI attorney
+    - drug crime lawyer
+    - criminal lawyer
+  max_places_per_term: 120
+  max_cost_per_run_usd: 5
