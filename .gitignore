@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Pipeline outputs are regenerable (python run_market.py); raw exports stay tracked
+data/*/*.csv
+!data/*/raw/
